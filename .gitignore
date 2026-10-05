@@ -1,0 +1,10 @@
+/venv
+.env
+*.txt
+.env
+*.env
+
+# Test files
+test_*.py
+*_test.py
+tests/
